@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusApp</string>
+    <string name="accessibility_description">Detects Reels and Shorts screens and protects strict-mode sessions and locked weeks from being cancelled. FocusApp only reads screen content during a focus session or a locked week.</string>
+</resources>
